@@ -2,7 +2,7 @@
 
 👨‍💻 Jr. Front-end Developer
 
-📖 BA English Studies (Linguistics and Literature)
+📜 BA English Studies (Linguistics and Literature)
 
 🌱 I’m currently learning more about JavaScript and React
 
