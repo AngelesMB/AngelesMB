@@ -1,8 +1,8 @@
 ## Hi 👋, I'm Ángeles
 
-👨‍💻 Jr. Front-end Developer</br>
+👨‍💻 Jr. Software Developer</br>
 📜 BA English Studies (Linguistics and Literature)</br>
-🌱 I’m currently learning more about JavaScript and React</br>
+🌱 I’m currently learning more about JavaScript, React and Java</br>
 ⚡ #adalaber</br>
 
 ## Languages and Tools:
